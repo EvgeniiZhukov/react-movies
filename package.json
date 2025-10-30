@@ -2,7 +2,7 @@
   "name": "movies-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://EvgeniiZhukov/github.io/react-movies",
+  "homepage": "https://evgeniizhukov.github.io/react-movies",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
